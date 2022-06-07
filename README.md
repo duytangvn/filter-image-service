@@ -4,3 +4,6 @@ Udagram is a simple cloud application developed alongside the Udacity Cloud Engi
 
 ## Domain name
 My service's domain name; http://image-filter-dev22.us-east-1.elasticbeanstalk.com/
+
+## Github repo
+https://github.com/duytangvn/filter-image-service
